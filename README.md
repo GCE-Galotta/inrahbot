@@ -16,6 +16,6 @@ Also, [this](https://realpython.com/how-to-make-a-discord-bot-python/) is a good
 * Place card images (in .png format) in folder "Karten".
 * run `python3 inrahbot`
 
-For copyright reasons, the cards are not included. You can use e.g. these from the [Borbarad-Projekt](https://www.borbarad-projekt.de/index.php?page=main_downloads) or your own. Just place them in the folder "Karten".
+For copyright reasons, the cards are not included. You can use e.g. these from the [Borbarad-Projekt](https://www.borbarad-projekt.de/inc/counter.php?file=inrahkarten2) or your own. Just place them in the folder "Karten".
 The card texts are taken from the "Inrah-Project" a fan project by Markus Hattenkofer, Mike Wimmer and Tobias Rosenberger.
 It can be found at the [Borbarad-Projekt](https://www.borbarad-projekt.de/index.php?page=main_downloads). There are also card images available there.
