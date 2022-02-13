@@ -1,6 +1,6 @@
 # inrahbot
 
-Quick and dirty bot for [Discord](https://discord.com/) groups. Randomly selects one card from a deck, posts it and some text to the channel.
+Quick and dirty bot for [Discord](https://discord.com/) groups. Randomly selects one card from a deck, posts it and its corresponding text to the channel.
 It uses the [discordpy](https://discordpy.readthedocs.io/en/stable/index.html) library.
 For more info on discord bots, refer to the [discord developer portal](https://discord.com/developers/docs/intro).
 Also, [this](https://realpython.com/how-to-make-a-discord-bot-python/) is a good tutorial.
@@ -11,7 +11,7 @@ Also, [this](https://realpython.com/how-to-make-a-discord-bot-python/) is a good
 * Images of the cards you want to use
 * Tested with `Python 3.8.10`
 
-## useage
+## usage
 * Place your discord token in `.env` file.
 * Place card images (in .png format) in folder "Karten".
 * run `python3 inrahbot`
