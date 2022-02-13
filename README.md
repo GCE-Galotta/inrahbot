@@ -8,8 +8,8 @@ Also, [this](https://realpython.com/how-to-make-a-discord-bot-python/) is a good
 ## prerequisites
 * `discord.py`
 * `python-dotenv`
-* Tested with `Python 3.8.10`
 * Images of the cards you want to use
+* Tested with `Python 3.8.10`
 
 ## useage
 * Place your discord token in `.env` file.
